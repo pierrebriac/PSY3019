@@ -1,0 +1,11 @@
+Le code suivant est exécuté sur Python 3.9.13
+
+Les packages requis sont disponibles dans le fichier package_utile.
+
+Le code permet de réaliser le paradigme de Stroop et à extraire / analyser les données.
+
+Le fichier csv Global.csv représente l'ensemble des réponses des participants.
+
+Le fichier info_y donne les informations sur le participant x qui a pour ID y.
+
+Le fichier data_y donne les résultats et les informations de l'expérience du participant x qui a pour ID y.
